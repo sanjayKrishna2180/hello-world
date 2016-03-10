@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Yo! First file here. What's up?
